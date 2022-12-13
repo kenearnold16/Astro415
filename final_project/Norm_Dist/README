@@ -1,0 +1,7 @@
+- Kenny, there is a lot of extra shit in this folder you don't have to care about.
+
+- Only thing you need is "bmnorm.c". Save it in your working directory, and include it in your C-script with "ran1.c".
+
+- "norm_example.c" is exactly what it sounds like; its an example of how to use the norm function I gave you. Look through it.
+
+- FYI the file "erfinvx.c" contains the approximation algorithm of the inverse error function but I think the equations I found online are wrong or misisng something because I cannot get that shit to give the right values for the life of me.
